@@ -1,6 +1,6 @@
 {
 	"name": "@guntur/phone-number-generator",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "Generate random phone number",
 	"license": "MIT",
 	"repository": "iguntur/phone-number-generator",
