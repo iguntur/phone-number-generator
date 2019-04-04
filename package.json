@@ -1,0 +1,27 @@
+{
+	"name": "@guntur/phone-number-generator",
+	"version": "0.0.0",
+	"description": "Generate random phone number",
+	"license": "MIT",
+	"repository": "iguntur/phone-number-generator",
+	"author": {
+		"name": "Guntur Poetra",
+		"email": "poetra.guntur@gmail.com",
+		"url": "https://github.com/iguntur"
+	},
+	"engines": {
+		"node": ">=8",
+		"npm": ">=6"
+	},
+	"files": [
+		"index.js"
+	],
+	"scripts": {
+		"lint": "eslint .",
+		"test": "ava"
+	},
+	"devDependencies": {
+		"@guntur/eslint-config": "0.0.5",
+		"ava": "^1.4.1"
+	}
+}
