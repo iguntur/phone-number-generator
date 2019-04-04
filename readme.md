@@ -1,5 +1,9 @@
 # phone-number-generator
 
+[![Build Status](https://travis-ci.com/iguntur/phone-number-generator.svg?token=Gqg6SWkLJ3YyFSAu5i3M&branch=master)](https://travis-ci.com/iguntur/phone-number-generator)
+[![npm](https://img.shields.io/npm/v/@guntur/phone-number-generator.svg?style=flat)](https://www.npmjs.org/package/@guntur/phone-number-generator)
+[![node](https://img.shields.io/node/v/@guntur/phone-number-generator.svg?style=flat)](https://nodejs.org)
+
 > Generate random phone number
 
 
